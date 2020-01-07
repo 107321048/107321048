@@ -2,14 +2,20 @@
 
 Authors: 107321048 107321053
 
+
 * 8x8 LED 矩陣，用來顯示畫面。
+
 ![](https://github.com/107321048/107321048/blob/master/1.png)
 
 * 七段顯示器，用來顯示時間。
+
 ![](https://github.com/107321048/107321048/blob/master/3.png)
 
 * LED 陣列，顯示剩餘機會。
+
 ![](https://github.com/107321048/107321048/blob/master/2.png)
+
+
 
 ## 功能説明：
 
