@@ -1,4 +1,4 @@
-# projec
+# project
 
 Authors: 107321048 107321053
 
